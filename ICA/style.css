@@ -102,9 +102,12 @@ img:last-of-type {
   text-shadow: 0 2px 2px #000;
 }
 
+a{
+  color: #ffa600;
+}
 
 #title {
-  background-image: url("https://getwallpapers.com/wallpaper/full/3/f/0/1382515-vertical-quentin-tarantino-wallpaper-1920x1080-for-hd.jpg");
+  background-image: url("https://www.wallpapers4u.org/wp-content/uploads/quentin_tarantino_actor_director_jacket_pistol_pants_celebrity_hollywood_black_and_white_18775_1920x1080.jpg");
   z-index:2;
 }
 
@@ -115,7 +118,7 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("giphy.gif"); 
+  background-image: url("Grazie.gif"); 
   transform: translateZ(-1px) scale(2);
 }
 
